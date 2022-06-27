@@ -11,7 +11,7 @@ Learning:
 <br />-C#
 <br />-Python(Tensorflow)
 
-Currently working on Tensorflow Perceptilabs intetgration
+Currently working on Tensorflow Perceptilabs integration
 
 Also good with electronics and robotics
 
