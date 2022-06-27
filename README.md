@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-~**Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.**
+<h3 align="center">Welcome to my GitHub page! Here you will find my projects.</h3>
+<br>
 
 Profecient:
 <br />-Python
