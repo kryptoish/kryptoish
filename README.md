@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ~**Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.**
-
+<br />
 Profecient:
 -Python
 -Arduino (based off of C++)
-
-Learning=
+<br />
+Learning:
 -Java
 -C#
 -Python(Tensorflow)
-
+<br />
 Currently working on Tensorflow Perceptilabs intetgration
 
 Also good with electronics and robotics
