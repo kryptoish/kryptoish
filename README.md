@@ -3,13 +3,13 @@
 ~**Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.**
 
 Profecient:
-Python
-Arduino (based off of C++)
+-Python
+-Arduino (based off of C++)
 
-Learning:
-Java
-C#
-Python(Tensorflow)
+Learning=
+-Java
+-C#
+-Python(Tensorflow)
 
 Currently working on Tensorflow Perceptilabs intetgration
 
