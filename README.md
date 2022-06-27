@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+~**Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.**
+
+Profecient:
+Python
+Arduino (based off of C++)
+
+Learning:
+Java
+C#
+Python(Tensorflow)
+
+Currently working on Tensorflow Perceptilabs intetgration
+
+Also good with electronics and robotics
+
+You can reach out to me on discord: Kryptoish#2276
+
+
 <!--
 **kryptoish/kryptoish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
