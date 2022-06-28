@@ -11,6 +11,7 @@ Learning:
 <br />-Java
 <br />-C#
 <br />-Python(Tensorflow)
+<br />-Javascript
 
 Currently working on Tensorflow Perceptilabs integration
 
