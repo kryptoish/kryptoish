@@ -13,7 +13,7 @@ Learning:
 <br />-Python(Tensorflow)
 <br />-Javascript
 
-Currently working on Tensorflow Perceptilabs integration
+Currently working on Tensorflow Perceptilabs integration and Benchmarking TD3 and DDPG on PyBullet
 
 Also good with electronics and robotics
 
