@@ -16,9 +16,7 @@ Learning:
 
 Currently working on Tensorflow Perceptilabs integration and Benchmarking TD3 and DDPG on PyBullet
 
-Also good with electronics and robotics
-
-You can reach out to me on discord: Kryptoish#2276
+You can reach out to me on discord: kryptoish
 
 
 <!--
