@@ -6,11 +6,12 @@
 Profecient:
 <br />-Python
 <br />-Arduino (based off of C++)
+<br />-C++
+<br />-HTML & CSS
 
 Learning:
 <br />-Java
 <br />-C#
-<br />-Python(Tensorflow)
 <br />-Javascript
 
 Currently working on Tensorflow Perceptilabs integration and Benchmarking TD3 and DDPG on PyBullet
