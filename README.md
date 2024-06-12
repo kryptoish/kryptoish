@@ -14,8 +14,6 @@ Learning:
 <br />-C#
 <br />-Javascript
 
-Currently working on Tensorflow Perceptilabs integration and Benchmarking TD3 and DDPG on PyBullet
-
 You can reach out to me on discord: kryptoish
 
 
