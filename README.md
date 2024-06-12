@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there, I'm Krish 👋</h1>
 
-<h3 align="center">Welcome to my GitHub page! Here you will find my projects.</h3>
+<h3 align="center">Welcome to my GitHub page! Here you will find some of my projects.</h3>
 <br>
 
 Profecient:
