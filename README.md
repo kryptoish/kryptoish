@@ -8,6 +8,7 @@ Profecient:
 <br />-Arduino (based off of C++)
 <br />-C++
 <br />-HTML & CSS
+<br />-Javascript
 
 Learning:
 <br />-Java
