@@ -13,7 +13,6 @@ Profecient:
 Learning:
 <br />-Java
 <br />-C#
-<br />-Javascript
 
 You can reach out to me on discord: kryptoish
 
