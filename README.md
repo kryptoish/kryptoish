@@ -1,18 +1,21 @@
-<h1 align="center">Hi there, I'm Krish 👋</h1>
+<h1 align="center">Hi there, I'm Krish Thakur👋</h1>
 
 <h3 align="center">Welcome to my GitHub page! Here you will find some of my projects.</h3>
 <br>
 
-Profecient:
+Profecient ⚡:
 <br />-Python
 <br />-Arduino (based off of C++)
 <br />-C++
 <br />-HTML & CSS
-<br />-Javascript
+<br />-Javascript/Typescript
 
-Learning:
+Learning 🔭:
 <br />-Java
 <br />-C#
+<br />-Verilog
+<br />-x86 Assembly
+<br />-Arm Assembly
 
 You can reach out to me on discord: kryptoish
 
