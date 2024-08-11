@@ -6,8 +6,10 @@
 Profecient ⚡:
 <br />-Python
 <br />-Arduino (based off of C++)
-<br />-C++
 <br />-HTML & CSS
+
+Intermediate 🌱:
+<br />-C++
 <br />-Javascript/Typescript
 
 Learning 🔭:
