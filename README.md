@@ -14,7 +14,7 @@ Intermediate 🌱:
 
 Learning 🔭:
 <br />-Java
-<br />-C#
+<br />-C & C#
 <br />-Verilog
 <br />-x86 Assembly
 <br />-Arm Assembly
