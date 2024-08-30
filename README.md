@@ -20,6 +20,7 @@ Learning 🔭:
 <br />-Arm Assembly
 
 You can reach out to me on discord: kryptoish
+Note: Portfolio website repository currently privated, will be released at a later date.
 
 
 <!--
