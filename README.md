@@ -3,7 +3,7 @@
 <h3 align="center">Welcome to my GitHub page! Here you will find some of my projects.</h3>
 <br>
 
-Profecient ⚡:
+Proficient ⚡:
 <br />-Python
 <br />-Arduino (based off of C++)
 <br />-HTML & CSS
