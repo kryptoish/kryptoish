@@ -4,13 +4,13 @@
 <br>
 
 Proficient ⚡:
-<br />-Python, Arduino, Java
+<br />- Python, Arduino, Java
 
 Intermediate 🌱:
-<br />-C/C++, Javascript/Typescript, Golang, HTML & CSS
+<br />- C/C++, Javascript/Typescript, Golang, HTML & CSS
 
 Learning 🔭:
-<br />-C#, Verilog, x86 Assembbly, ARM Assembly
+<br />- C#, Verilog, x86 Assembbly, ARM Assembly
 
 You can reach out to me on discord: kryptoish
 <br />Note: Portfolio website repository currently privated, will be released at a later date.
