@@ -7,10 +7,10 @@ Proficient ⚡:
 <br />- Python, Arduino, Java, C++
 
 Intermediate 🌱:
-<br />- SystemVerilog, C, Javascript/Typescript, Golang, HTML & CSS
+<br />- SystemVerilog, C, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
 
 Learning 🔭:
-<br />- C#, x86 Assembbly, ARM Assembly
+<br />- C#, x86 Assembbly
 
 You can reach out to me on discord: kryptoish
 <br />Note: Portfolio website repository currently privated, will be released at a later date.
