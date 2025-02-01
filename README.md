@@ -13,7 +13,6 @@ Learning 🔭:
 <br />- C#, x86 Assembbly
 
 You can reach out to me on discord: kryptoish
-<br />Note: Portfolio website repository currently privated, will be released at a later date.
 
 
 <!--
