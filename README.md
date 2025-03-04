@@ -4,10 +4,10 @@
 <br>
 
 Proficient ⚡:
-<br />- Python, Arduino, Java, C++
+<br />- Python, Arduino, Java, C++, C
 
 Intermediate 🌱:
-<br />- SystemVerilog, C, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
+<br />- SystemVerilog, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
 
 Learning 🔭:
 <br />- C#, x86 Assembbly
