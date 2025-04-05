@@ -14,7 +14,7 @@ Learning 🔭:
 
 <br />You can reach out to me on discord: kryptoish
 
-[![L](https://visitcount.itsvg.in/api?id=kryptoish&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kryptoish&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
