@@ -12,7 +12,9 @@ Intermediate 🌱:
 Learning 🔭:
 <br />- C#, x86 Assembbly
 
-You can reach out to me on discord: kryptoish
+<br />You can reach out to me on discord: kryptoish
+
+[![](https://visitcount.itsvg.in/api?id=kryptoish&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
