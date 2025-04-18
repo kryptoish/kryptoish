@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="500%" src="./assets/line.svg"/>
+  <img width="10%" src="./assets/line.svg"/>
 </p>
 
 ## About Me
