@@ -10,11 +10,17 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/krish.t.h/"><img width="42px" alt="Instagram" title="Instagram" src="./assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/krish-thakur7/"><img width="52px" alt="LinkedIn" title="Linkedin" src="./assets/linkedin.svg" style="vertical-align: middle;"></a>
+  <a href="https://www.linkedin.com/in/krish-thakur7/"><img width="62px" alt="LinkedIn" title="Linkedin" src="./assets/linkedin.svg" style="vertical-align: middle;"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:kthaku02@student.ubc.ca"><img width="42px" alt="Mail" title="Email Me" src="./assets/email.svg"/></a>
   <img align="right" src="./assets/cooperate.svg" width="40px">
 </p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./assets/instagram.svg" width="42px" />
+  <img src="./assets/linkedin.svg" width="52px" />
+  <img src="./assets/email.svg" width="42px" />
+  <img align="right" src="./assets/cooperate.svg" width="40px">
+</div>
 
 <p align="center">
   <img width="100%" src="./assets/line.svg"/>
