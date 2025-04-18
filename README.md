@@ -1,18 +1,34 @@
-<h1 align="center">Hi there, I'm Krish Thakur</h1>
+<p align="center">
+  <a href="https://www.github.com/kryptoish"><img src="./assets/name.svg" alt="Krish Thakur" width="50%"/></a>
+</p>
 
-<h3 align="center">Welcome to my GitHub page! Here you will find some of my projects!</h3>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=109B96&center=true&vCenter=true&random=true&width=524&lines=Computer+Engineering+%40+UBC;Firmware+Dev+%40+UBC+Formula+E;SWE+Intern+%40+Qualcomm" alt="Typing SVG" />
+</p>
 
-Proficient ⚡:
-<br />- C, C++, Python, Java
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/krish.t.h/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/instagram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/krish-thakur7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:kthaku02@student.ubc.ca"><img width="42px" alt="Mail" title="Email Me" src="./assets/email.svg"/></a>
+  <img align="right" src="./assets/cooperate.svg" width="40px">
+</p>
 
-Intermediate 🌱:
-<br />- SystemVerilog, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
+<p align="center">
+  <img width="500%" src="./assets/line.svg"/>
+</p>
 
-Learning 🔭:
-<br />- C#, x86 Assembbly
+## About Me
 
-<br />You can reach out to me on discord: kryptoish
+
+## Contact
+
+<img align="left" src="./assets/discord.svg" width="50px" /> <pre>kryptoish</pre>
+
+<br />
+<img width="64px" src="https://komarev.com/ghpvc/?username=kryptoish&label=Views&style=for-the-badge&color=C41230" />
 
 <!--
 **kryptoish/kryptoish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
