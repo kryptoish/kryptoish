@@ -8,9 +8,9 @@
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/krish.t.h/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/instagram.svg"/></a>
+  <a href="https://www.instagram.com/krish.t.h/"><img width="42px" alt="Instagram" title="Instagram" src="./assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/krish-thakur7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/krish-thakur7/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:kthaku02@student.ubc.ca"><img width="42px" alt="Mail" title="Email Me" src="./assets/email.svg"/></a>
   <img align="right" src="./assets/cooperate.svg" width="40px">
