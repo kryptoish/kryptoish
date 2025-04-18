@@ -19,6 +19,24 @@
 
 ## About Me
 
+<pre>
+Hi, my name's Krish.
+
+Here you will find some of the projects I've worked on or am currently working on.
+
+---Tech Stack---
+Proficient:     C, C++, Python, Java
+Intermediate:   SystemVerilog, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
+Learning:       C#, x86 Assembly
+
+You might know me from...
+- <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
+- <a href="https://www.csdcms.ca/">CANSAT</a> - Canadian Satellite Design Challenge - Team Idealite
+- <a href="https://github.com/kryptoish/nanopulseOS">nanopulseOS</a> - bare metal OS
+- <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - homelab server for use of public (soon)
+- <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a> - autonomous quadroped simulation through DDPG algorithm
+
+</pre>
 
 ## Contact
 
