@@ -40,7 +40,7 @@ You might know me from...
 
 ## Contact
 
-<img align="left" src="./assets/discord.svg" width="50px" /> <pre>kryptoish</pre>
+<img align="left" src="./assets/discord.svg" width="30px" /> <pre>kryptoish</pre>
 
 <br />
 <img width="64px" src="https://komarev.com/ghpvc/?username=kryptoish&label=Views&style=for-the-badge&color=C41230" />
