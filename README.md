@@ -32,9 +32,9 @@ Learning:       C#, x86 Assembly
 You might know me from...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
 - <a href="https://www.csdcms.ca/">CANSAT</a> - Canadian Satellite Design Challenge - Team Idealite
-- <a href="https://github.com/kryptoish/nanopulseOS">nanopulseOS</a> - bare metal OS
+- <a href="https://github.com/kryptoish/nanopulseOS">nanopulseOS</a> - bare metal OS (custom kernel and drivers)
 - <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - homelab server for use of public (soon)
-- <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a> - autonomous quadroped simulation through DDPG algorithm
+- <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a> - autonomous quadroped simulation using DDPG algorithm
 
 </pre>
 
