@@ -9,7 +9,7 @@
 <div justify-content: center; align-items: center; gap: 25px;">
   <a href="https://www.instagram.com/krish.t.h/"><img src="./assets/instagram.svg" width="42px" /></a>
   <a href="https://www.linkedin.com/in/krish-thakur7/"><img src="./assets/linkedin.svg" width="52px" /></a>
-  <a href="mailto:kthaku02@student.ubc.ca"><img src="./assets/email.svg" width="42px" /></a>
+  <a href="mailto:krishthakur@runix.cloud"><img src="./assets/email.svg" width="42px" /></a>
   <img align="right" src="./assets/cooperate.svg" width="40px">
 </div>
 
