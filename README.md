@@ -27,7 +27,7 @@ Here you will find some of the projects I've worked on or am currently working o
 ---Tech Stack---
 Proficient:     C, C++, Python, Java
 Intermediate:   SystemVerilog, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
-Learning:       C#, x86 Assembly
+Learning:       C#, x86 Assembly, Rust
 
 You might know me from...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
