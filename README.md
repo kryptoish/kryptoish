@@ -25,8 +25,8 @@ Hi, my name's Krish.
 Here you will find some of the projects I've worked on or am currently working on.
 
 ---Tech Stack---
-Proficient:     C, C++, Python, Java
-Intermediate:   SystemVerilog, AArch64 Assembly, Javascript/Typescript, Golang, HTML & CSS
+Proficient:     C, C++, Python
+Intermediate:   SystemVerilog, AArch64 Assembly, Java, Javascript/Typescript, Golang, HTML & CSS
 Learning:       C#, x86 Assembly, Rust
 
 You might know me from...
