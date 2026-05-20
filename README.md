@@ -24,26 +24,21 @@ Hi, my name's Krish.
 
 Here you will find some of the projects I've worked on or am currently working on.
 
----Tech Stack---
-Proficient:     C, C++, Python
-Intermediate:   SystemVerilog, AArch64 Assembly, Java, Javascript/Typescript, Golang, HTML & CSS
-Learning:       C#, x86 Assembly, Rust
+Frequently work with: .c, .asm, .py, .cpp, .sv, .go, .ts, .java
+Currently learning: .rs
 
 You might know me from...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
+- <a href="https://www.nanopulseos.org/">nanopulseOS</a> - full bare metal OS (Monolithic)
 - <a href="https://www.csdcms.ca/">CANSAT</a> - Canadian Satellite Design Challenge - Team Idealite
-- <a href="https://github.com/kryptoish/nanopulseOS">nanopulseOS</a> - bare metal OS (custom kernel and drivers)
-- <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - homelab server for use of public (soon)
+- <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - homelab server for use of public (soon) (might rebrand)
 - <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a> - autonomous quadroped simulation using DDPG algorithm
 
 </pre>
-
-## Contact
-
-<img align="left" src="./assets/discord.svg" width="40px" /> <pre>kryptoish</pre>
-
 <br />
-<img width="64px" src="https://komarev.com/ghpvc/?username=kryptoish&label=Views&style=for-the-badge&color=C41230" />
+<p align="center">
+  <img width="64px" src="https://komarev.com/ghpvc/?username=kryptoish&label=Views&style=for-the-badge&color=C41230" />
+</p>
 
 <!--
 **kryptoish/kryptoish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
