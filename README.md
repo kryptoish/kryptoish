@@ -25,12 +25,12 @@ Here you will find some of the projects I've worked on or am currently working o
 Frequently work with: .c, .asm, .py, .cpp, .sv
 Currently learning: .rs
 
-You might know me from...
+Some things I've done...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
-- <a href="https://www.nanopulseos.org/">nanopulseOS</a> - full bare metal OS (Monolithic)
-- <a href="https://www.csdcms.ca/">CANSAT</a> - Canadian Satellite Design Challenge - Team Idealite
-- <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - homelab server for use of public (soon) (might rebrand)
-- <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a> - autonomous quadroped simulation using DDPG algorithm
+- <a href="https://www.nanopulseos.org/">nanopulseOS</a>
+- <a href="https://www.csdcms.ca/">CANSAT</a>
+- <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - (might retire)
+- <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a>
 
 </pre>
 <br />
