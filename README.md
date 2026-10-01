@@ -34,7 +34,6 @@ Some things I've done...
 - <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a>
 
 </pre>
-<br />
 <p align="center">
   <img width="64px" src="https://komarev.com/ghpvc/?username=kryptoish&label=Views&style=for-the-badge&color=C41230" />
 </p>
