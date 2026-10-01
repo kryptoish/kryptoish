@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href="https://www.github.com/kryptoish"><img src="./assets/name.svg" alt="Krish Thakur" width="45%"/></a>
 </p>
@@ -18,7 +19,7 @@
 </p>
 
 ## About Me
-
+-->
 <pre>
 Here you will find some of the projects I've worked on or am currently working on.
 
