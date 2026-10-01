@@ -21,7 +21,7 @@
 ## About Me
 -->
 <pre>
-Here you will find some of the projects I've worked on or am currently working on.
+Some of the projects I've worked on or am currently working on.
 
 Frequently work with: .c, .asm, .py, .cpp, .sv
 Currently learning: .rs
