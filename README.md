@@ -29,7 +29,6 @@ Currently learning: .rs
 Some things I've done...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
 - <a href="https://www.nanopulseos.org/">nanopulseOS</a>
-- <a href="https://github.com/kryptoish/bs-interpretor">bs-interpretor</a>
 - <a href="https://www.csdcms.ca/">CANSAT</a>
 - <a href="https://github.com/kryptoish/runix.cloud">Runix.cloud</a> - (might retire)
 - <a href="https://www.krishthakur.com/work/Auto-Crawler">Auto-Crawler</a>
