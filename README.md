@@ -25,6 +25,7 @@ Some of the projects I've worked on or am currently working on.
 
 Frequently work with: .c, .asm, .py, .cpp, .sv
 Currently learning: .rs
+Designing & Fine-tuning: .cb
 
 Some things I've done...
 - <a href="https://www.ubcformulaelectric.com/">UBC formula Electric</a> - Firmware Dev
